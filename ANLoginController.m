@@ -25,8 +25,7 @@
     
     self.navigationItem.hidesBackButton = YES;
     
-    NSString* bundleID = [[NSBundle mainBundle] bundleIdentifier];
-    NSLog(@"here you go %@",bundleID);
+    
 }
 
 
